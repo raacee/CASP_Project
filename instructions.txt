@@ -1,0 +1,3 @@
+Choose 3 regression algorithms
+Apply them to the two datasets using 10-fold Cross-Validation (10%)
+Compare results between two datasets
