@@ -1,6 +1,0 @@
-Choose 3 regression algorithms
-Apply them to the two datasets using 10-fold Cross-Validation (10%)
-For any algorithm that has hyperparameters, choose several possible values and
-evaluate again using 10-fold Cross-Validation. Show results in a diagram. Write
-analysis of the results.
-Compare results between two datasets
